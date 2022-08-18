@@ -1,6 +1,6 @@
 # demo-sci-comp
 
-Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and topics we cover in the first year of the "X with Scientific Computing" courses at the University of Bristol. See the [BriSC webpages](http://www.bristol.ac.uk/science/courses/brisc/) for more details.
+This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and topics we cover in the first year of the "X with Scientific Computing" courses at the University of Bristol. See the [BriSC webpages](http://www.bristol.ac.uk/science/courses/brisc/) for more details.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-sci-comp.git/HEAD?urlpath=tree/01_Demo_Scientific_Computing.ipynb)
 
