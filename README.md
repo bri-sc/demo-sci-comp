@@ -6,4 +6,8 @@ Click on this link to launch this through BinderHub:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-sci-comp.git/HEAD?urlpath=tree/01_Demo_Scientific_Computing.ipynb)
 
+Updated demo:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-sci-comp/Updates-July-2025?urlpath=%2Fdoc%2Ftree%2F01_Demo_Scientific_Computing_v2.ipynb)
+
 This demonstration makes use of data obtained from Open Data Bristol Air Quality Data Continuous dataset (available to view: https://opendata.bristol.gov.uk/apps/bcc::air-quality-dashboard/explore). Data from the Defra sites are reproduced under © Crown 2019 copyright Defra via uk-air.defra.gov.uk, licenced under the Open Government Licence (OGL).
