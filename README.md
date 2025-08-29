@@ -2,7 +2,7 @@
 
 This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Postgraduate Programme for Scientific Computing with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-scientific-computing-with-data-science/) for more details.
 
-This demo investigates air quality measurements taken around Bristol and looks for interesting trends in the data.
+This demo investigates air quality measurements taken around Bristol and looks at whether we can determine the impact 2020 and lockdown had on air quaity in the city.
 
 Click on this link to launch this through MyBinder:
 
