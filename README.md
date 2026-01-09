@@ -1,8 +1,8 @@
-## Air quality demo
+## Air quality demo - Bristol Clean Air Zone
 
 This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) for more details.
 
-This demo investigates air quality measurements taken around Bristol and looks at whether we can determine the impact 2020 and lockdown had on air quaity in the city.
+This demo investigates air quality measurements taken around Bristol and looks at whether we can determine the impact of the Bristol Clean Air Zone on air quality in the city.
 
 Click on this link to launch this through MyBinder:
 
